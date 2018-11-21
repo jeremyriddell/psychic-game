@@ -1,0 +1,23 @@
+html {
+    height: 100%;
+    box-sizing: border-box;
+  }
+  
+  body {
+      background-image: "assets/images/backgroundImage.jpg";
+      background-color: limegreen;
+      text-align: center;
+      font-family: "Arial", "Helvetica Neue", Helvetica, sans-serif;
+      font-size: 24px;
+      
+  }
+  
+  h1, h2 {
+      text-align: center;
+  }
+  
+  
+  
+
+  
+  
